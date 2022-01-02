@@ -31,4 +31,10 @@ Array.push_start(arr,SIZE); /* push_start(You Array,SIZE arr); push new first va
 
 Array.pop_start(arr,SIZE); /* pop_start(You Array,SIZE arr); delete first value; */
 
+Array.summarize(arr,SIZE); /* Summarize all elements*/
+
+Array.boolconv(arr,SIZE,boolArr,BOOLSIZE); /*Convertation elements to bool*/
+
+Arra.upsize(arr,SIZE,SIZEVAL);/*Update array SIZE*/
+
 Array.sort(arr,SIZE); /* sort(You Array,SIZE arr); Sort you array; */ delete [] arr;//Delete arr from Memory }
